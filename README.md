@@ -1,0 +1,2 @@
+# GPA-Calculation-and-Tour-Trip-Prediction---Artificial-Intelligence
+• Analyzed the GPA of previous students on the basis of their attendance, mid-term and final term marks. • Estimated the gradient descent constant and calculated the general equation which will predict the GPA on the basis of attendance, mid-term and final term marks. • Analyzed the most popular trip of states in the USA from previous data of users.  • Used Markov and Hidden Markov Model(HMM) to predict and suggest the best trip according to user's budget and starting destination.
